@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pawn game", "Pawn game\Pawn game.vcxproj", "{445D81ED-2A94-4566-AAB3-FC40C85BEC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445D81ED-2A94-4566-AAB3-FC40C85BEC71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{445D81ED-2A94-4566-AAB3-FC40C85BEC71}.Debug|Win32.Build.0 = Debug|Win32
+		{445D81ED-2A94-4566-AAB3-FC40C85BEC71}.Release|Win32.ActiveCfg = Release|Win32
+		{445D81ED-2A94-4566-AAB3-FC40C85BEC71}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
